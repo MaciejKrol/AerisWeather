@@ -1,0 +1,21 @@
+{
+    "name": "maciejkrol/AerisWeather",
+    "description": "A simple PHP API wrapper for http://www.aerisweather.com/",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Maciej Król",
+            "email": "mail@maciejkrol.pl",
+            "role": "Developer"
+        }
+    ],
+    "keywords": [
+        "weather",
+        "AerisWeather"
+    ],
+    "autoload": {
+        "psr-4": {
+            "maciejkrol\\AerisWeather\\": "src"
+        }
+    }
+}
