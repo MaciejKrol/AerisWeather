@@ -1,5 +1,5 @@
 {
-    "name": "maciejkrol/aerisweather",
+    "name": "maciejkrol/aeris-weather",
     "description": "A simple PHP API wrapper for http://www.aerisweather.com/",
     "type": "library",
     "authors": [
